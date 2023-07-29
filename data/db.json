@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "iphone",
+      "price": "16000",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "phone",
+      "price": "4000",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "id": 7,
+      "name": "phone redmi",
+      "price": "7000",
+      "checked": false
+    },
+    {
+      "name": "scanner",
+      "price": "10000",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "LAPTOP",
+      "price": "15000",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "id": 11,
+      "name": "TEST",
+      "price": "5000",
+      "checked": false
+    },
+    {
+      "name": "lala",
+      "price": "6000",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "test",
+      "price": "6000",
+      "checked": false,
+      "id": 13
+    },
+    {
+      "name": "test",
+      "price": "6990",
+      "checked": true,
+      "id": 14
+    }
+  ]
+}
